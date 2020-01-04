@@ -4,8 +4,13 @@ export default class App extends Component {
   render() {
     return (
       <div className='app'>
-        <h1>DevCamp React Starter</h1>
-        <h2>React Skeleton</h2>
+        <input>
+        add new note here boi
+        </input>
+        <button>
+          add note to notes ;)
+        </button>
+
       </div>
     );
   }
